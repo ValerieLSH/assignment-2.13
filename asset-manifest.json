@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/assignment-2.13/static/css/main.0cc93cd6.css",
+    "main.js": "/assignment-2.13/static/js/main.827d7e8e.js",
+    "static/js/787.13d04732.chunk.js": "/assignment-2.13/static/js/787.13d04732.chunk.js",
+    "index.html": "/assignment-2.13/index.html",
+    "main.0cc93cd6.css.map": "/assignment-2.13/static/css/main.0cc93cd6.css.map",
+    "main.827d7e8e.js.map": "/assignment-2.13/static/js/main.827d7e8e.js.map",
+    "787.13d04732.chunk.js.map": "/assignment-2.13/static/js/787.13d04732.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0cc93cd6.css",
+    "static/js/main.827d7e8e.js"
+  ]
+}
